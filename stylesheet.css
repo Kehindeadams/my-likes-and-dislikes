@@ -1,0 +1,20 @@
+.header{
+    background-color: blue;
+    font-size: 30px;
+    font-style: italic;
+
+}
+#children-tag{
+    background-color: blueviolet;
+    font-style: oblique;
+    tab-size: 70px;
+    
+}
+#parent{
+    background-color: brown;
+    font-size: larger;
+}
+#header{
+    padding: 60px;
+    background-color: yellow;
+}
